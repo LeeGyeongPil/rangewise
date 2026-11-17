@@ -1,0 +1,12 @@
+{
+  "name": "rangewise-skill",
+  "owner": {"name": "LeeGyeongPil"},
+  "description": "Version range decisions for npm, Cargo, PyPI, Composer and Maven.",
+  "plugins": [
+    {
+      "name": "rangewise",
+      "source": "./",
+      "description": "Decides npm, Cargo, PyPI, Composer and Maven version ranges exactly as each ecosystem does."
+    }
+  ]
+}

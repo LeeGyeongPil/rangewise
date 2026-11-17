@@ -1,0 +1,10 @@
+{
+  "name": "rangewise",
+  "version": "0.1.0",
+  "description": "Decides npm, Cargo, PyPI, Composer and Maven version ranges exactly as each ecosystem does: check a version, pick from candidates, intersect two ranges, explain a range.",
+  "author": {"name": "LeeGyeongPil"},
+  "license": "MIT",
+  "homepage": "https://github.com/LeeGyeongPil/rangewise",
+  "repository": "https://github.com/LeeGyeongPil/rangewise",
+  "keywords": ["semver", "version-range", "pep440", "npm", "cargo", "composer", "maven", "dependencies"]
+}
