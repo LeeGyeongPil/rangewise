@@ -1,0 +1,6 @@
+{
+  "name": "demo-app",
+  "dependencies": {
+    "@acme/core": ">=0.9.0"
+  }
+}

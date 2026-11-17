@@ -1,0 +1,6 @@
+{
+  "name": "a",
+  "dependencies": {
+    "shared": "^0.2.3"
+  }
+}

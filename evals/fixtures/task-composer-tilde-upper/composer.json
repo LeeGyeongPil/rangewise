@@ -1,0 +1,5 @@
+{
+  "require": {
+    "vendor/lib": "~1.2"
+  }
+}
